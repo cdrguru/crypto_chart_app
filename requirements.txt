@@ -1,0 +1,8 @@
+pandas
+matplotlib
+mplfinance
+yfinance
+openai
+python-dotenv
+PyYAML
+logging
